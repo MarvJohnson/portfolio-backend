@@ -1,0 +1,1 @@
+gunicorn portfolio_django.asgi:application -k uvicorn.workers.UvicornWorker

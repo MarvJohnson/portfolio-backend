@@ -13,6 +13,8 @@ djangorestframework-simplejwt = "*"
 dj-database-url = "*"
 python-dotenv = "*"
 djangorestframework-recursive = "*"
+uvicorn = "*"
+gunicorn = "*"
 
 [dev-packages]
 
