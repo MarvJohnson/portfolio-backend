@@ -15,6 +15,7 @@ python-dotenv = "*"
 djangorestframework-recursive = "*"
 uvicorn = "*"
 gunicorn = "*"
+whitenoise = "*"
 
 [dev-packages]
 
