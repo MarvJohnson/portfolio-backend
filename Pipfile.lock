@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "998914a2b5ab89a37a9bfe308b784bb4897c29fa1d36910c66dcea2543a571ef"
+            "sha256": "bfaa86b6210a5483a8d0f3268f1646607e54cd954cc955bc7a9c8cb1c248ab92"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -191,6 +191,14 @@
             ],
             "index": "pypi",
             "version": "==3.11.0"
+        },
+        "django-nested-admin": {
+            "hashes": [
+                "sha256:c6852c5ac632f4e698b6beda455006fd464c852459e5e858a6db832cdb23d9e1",
+                "sha256:fbcf20d75a73dcbcc6285793ff936eff8df4deba5b169e0c1ab765394c562805"
+            ],
+            "index": "pypi",
+            "version": "==3.4.0"
         },
         "django-templated-mail": {
             "hashes": [
@@ -403,6 +411,13 @@
             ],
             "index": "pypi",
             "version": "==0.19.2"
+        },
+        "python-monkey-business": {
+            "hashes": [
+                "sha256:6d4cf47f011945db838ccf04643acd49b82f7ad6ab7ecba4c8165385687a828a",
+                "sha256:9976522989766f00b2aaa24ec96eacb91a6de7b7001d1452079323b071988e0e"
+            ],
+            "version": "==1.0.0"
         },
         "python3-openid": {
             "hashes": [

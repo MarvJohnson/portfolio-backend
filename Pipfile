@@ -16,6 +16,7 @@ djangorestframework-recursive = "*"
 uvicorn = "*"
 gunicorn = "*"
 whitenoise = "*"
+django-nested-admin = "*"
 
 [dev-packages]
 

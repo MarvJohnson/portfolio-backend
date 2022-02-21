@@ -45,7 +45,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'djoser',
     'corsheaders',
-    'portfolio'
+    'portfolio',
+    'nested_admin',
 ]
 
 MIDDLEWARE = [
