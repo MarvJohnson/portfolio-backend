@@ -60,11 +60,11 @@ class UserAdmin(BaseUserAdmin):
 
 class PostAdmin(nested_admin.NestedModelAdmin):
   inlines = (PostSectionInline, CommentInline,)
-  list_display = ('title', 'topic',)
+  list_display = ('title',)
   list_filter = ('title',)
   fieldsets = (
     (None, {
-      'fields': ('title', 'topic',)
+      'fields': ('title',)
     }),
   )
   search_fields = ('title',)
